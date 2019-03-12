@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<application>
+    <server>
+        <host>localhost</host>
+        <port>5849</port>
+    </server>
+</application>
